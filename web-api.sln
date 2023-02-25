@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api", "web-api\web-api.csproj", "{704329E4-671C-4DCE-8E0A-4D7901903A99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBFD79E7-D94F-4A63-BDB0-40A6058BFE59}"
+	ProjectSection(SolutionItems) = preProject
+		web-api.sln = web-api.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704329E4-671C-4DCE-8E0A-4D7901903A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704329E4-671C-4DCE-8E0A-4D7901903A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704329E4-671C-4DCE-8E0A-4D7901903A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704329E4-671C-4DCE-8E0A-4D7901903A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A6496C-3E00-4C79-922C-D30CD65F1349}
+	EndGlobalSection
+EndGlobal
